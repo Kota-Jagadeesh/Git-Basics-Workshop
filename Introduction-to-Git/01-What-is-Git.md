@@ -12,10 +12,10 @@ Think about working on a big project, like writing a research paper, designing a
 
 You might try to save different versions like this:
 
-* `my_project_final.docx`
-* `my_project_final_v2.docx`
-* `my_project_final_really_final.docx`
-* `my_project_final_john_edits.docx`
+* `jagadeesh_project_final.docx`
+* `jagadeesh_project_final_v2.docx`
+* `jagadeesh_project_final_really_final.docx`
+* `kota_jagadeesh_project_final.docx`
 
 Sound familiar? This quickly becomes a **mess**!
 

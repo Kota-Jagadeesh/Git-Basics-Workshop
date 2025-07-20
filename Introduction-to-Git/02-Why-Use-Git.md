@@ -20,7 +20,7 @@ Imagine you're coding your first big C++ project. You try a new feature, and it 
 
 ### Real-World Example:
 You're doing a group project where everyone needs to work on different parts of the same report or code. Without Git, you might:
-* Email files back and forth (`report_john.docx`, `report_mary.docx`).
+* Email files back and forth (`report_Kota_jagadeesh.docx`, `report_jagadeesh.docx`).
 * Manually copy-paste changes (and inevitably overwrite someone else's work).
 * Spend hours trying to combine everyone's contributions.
 
